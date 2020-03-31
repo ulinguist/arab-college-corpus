@@ -7,6 +7,14 @@ A research project led by [Dr. Omaima Abboud](https://www.linkedin.com/in/omaima
 
 ...
 
+The current repository consists of the following files and folders
+
+- *metadata.tsv*
+- *example.py*
+- *convert_to_SkEn.py*
+- essays/
+
+
 **Corpus Statistics**
 
 - Number of essays: 957
