@@ -1,7 +1,7 @@
 ## ArabCC: EFL Learners' Corpus
 ### The Arab Academic College of Education
 
-A research project led by [Dr. Omaima Abboud](https://www.linkedin.com/in/omaima-abboud-915668149/?originalSubdomain=il) together with [Dr. Noam Ordan](https://scholar.google.com/citations?user=-Xtm8iAAAAAJ&hl=en). Data processing and maintenance is provided by Uliana Sentsova (the owner of the repository).
+A research project led by [Dr. Omaima Abboud](https://www.linkedin.com/in/omaima-abboud-915668149/?originalSubdomain=il) together with [Dr. Noam Ordan](https://scholar.google.com/citations?user=-Xtm8iAAAAAJ&hl=en). The corpus data is curated by [Uliana Sentsova](https://www.linkedin.com/in/uli/) (the owner of the current repository).
 
 For any questions about the data, please do not hesitate to contact me directly via email: uliana.sentsova@gmail.com.
 
