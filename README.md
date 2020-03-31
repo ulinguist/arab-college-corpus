@@ -20,21 +20,21 @@ The `essays` folder contains 957 files in text format, each file corresponds to 
 
 The `metadata.tsv` file contains detailed information about essays, such as ID, student ID, student's level, etc. You can use the metadata file with the `pandas` library, as shown in the Examples section.
 
-The metadata consists of 957 rows and 5 columns, namely: *Essay ID*, *Student ID*, *Level*, *Prompt*, *Date*.
+The metadata consists of 957 rows and 5 columns, namely: **Essay ID**, **Student ID**, **Level**, **Prompt**, **Date**.
 
-The *ID* column contains identification numbers of each essay. ID is equal to the name of the file in the "text" folder. Data type is integer.
+The **ID** column contains identification numbers of each essay. ID is equal to the name of the file in the "text" folder. Data type is integer.
 
-The *Level* column contains codes of nine education levels. See the following list for the meaning of each code:
+The **Level** column contains codes of nine education levels. See the following list for the meaning of each code:
 
-- HS-9: high school students, 9th grade
-- HS-10: high school students, 10th grade
-- HS-11: high school students, 11th grade
-- HS-12: high school students, 12th grade
-- BA-0: students to be admitted for a BA programme at the Arab Academic College of Education 
-- BA-1: BA programme students, first year
-- BA-2: BA programme students, second year
-- BA-3: BA programme students, third year
-- MA-1: MA programme students, first year
+- `HS-9` high school students, 9th grade
+- `HS-10`: high school students, 10th grade
+- `HS-11`: high school students, 11th grade
+- `HS-12`: high school students, 12th grade
+- `BA-0`: students to be admitted for a BA programme at the Arab Academic College of Education 
+- `BA-1`: BA programme students, first year
+- `BA-2`: BA programme students, second year
+- `BA-3`: BA programme students, third year
+- `MA-1`: MA programme students, first year
 
 
 
