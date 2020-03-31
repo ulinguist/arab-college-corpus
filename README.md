@@ -55,4 +55,4 @@ The **Level** column contains codes of nine education levels. Data type is categ
     - BA students:	484
     - MA students:	298
 
-Please note that throughout the project, the students advanced towards their graduation and submitted essays on levels from BA to MA.
+Please note that the data comes from a time span of approximately three years. During this time, the participating students advanced with their education. As a result, the essays written by a particular student may have different level tags, from BA-1 to MA-1.
