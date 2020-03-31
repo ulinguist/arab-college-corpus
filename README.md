@@ -7,8 +7,7 @@ For any questions about the data, please do not hesitate to contact me directly 
 
 ### Corpus Description
 
-ArabCC is a corpus of English essays written by native speakers of the Arabic language.
-
+ArabCC is a corpus of English essays written by native speakers of the Arabic language. Within the project, we collected 957 essays written by more than 300 students of The Arab Academic College of Education.
 
 The directory of the project contains the following files and folders:
 
