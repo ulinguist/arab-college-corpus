@@ -19,9 +19,7 @@ essays/
 
 The `essays` folder contains 957 files in text format, each file corresponds to an essay and each filename corresponds to the ID of that essay. The folder has 1.1 MB of data.
 
-The `metadata.tsv` file contains detailed information about essays, such as ID, student ID, student's level, etc. You can use the metadata file with the `pandas` library, as shown in the Examples section.
-
-The metadata consists of 957 rows and 5 columns, namely: **Essay ID**, **Student ID**, **Level**, **Prompt**, **Date**.
+The `metadata.tsv` file contains detailed information about essays and their authors. The file consists of 957 rows and 5 columns, namely: **Essay ID**, **Student ID**, **Level**, **Prompt**, **Date**.
 
 The **ID** column contains unique identification numbers of essays. ID is equal to the name of the file in the `essays` folder. Data type is integer.
 
@@ -37,7 +35,7 @@ The **Level** column contains codes of nine education levels. Data type is categ
 - `BA-3`: BA programme students, third year
 - `MA-1`: MA programme students, first year
 
-
+...
 
 ### Corpus Statistics
 
