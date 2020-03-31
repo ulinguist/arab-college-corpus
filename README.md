@@ -5,14 +5,59 @@ A research project led by [Dr. Omaima Abboud](https://www.linkedin.com/in/omaima
 
 #### Corpus Description
 
+ArabCC is a corpus of English essays written by native speakers of the Arabic language.
+
+
+The directory of the project contains the following files and folders:
+
+```
+metadata.tsv
+README
+essays/
+```
+
+The `essays` folder contains 957 `txt` files, each file corresponds to an essay and each filename corresponds to the ID of that essay. The folder has 1.1 MB of data.
+
+The `metadata.tsv` file contains detailed information about essays, such as ID, student ID, student's level, etc. You can use the metadata file with the `pandas` library, as shown in the Examples section.
+
+The metadata consists of 957 rows and 5 columns, namely:
+
+- Essay ID,
+- Student ID
+- Level
+- Prompt
+- Date
+
+Here is a detailed description of data in each column.
+
+**ID**
+
+The column contains identification numbers of each essay. ID is equal to the name of the file in the "text" folder.
+
+Data type: integer.
+
+**Student ID**
+
 ...
 
-The current repository consists of the following files and folders
+**Level**
 
-- metadata.tsv
-- example.py
-- convert_to_SkEn.py
-- essays/
+The column contains codes of nine education levels.
+
+Categories: HS-9, HS-10, HS-11, HS-12, BA-0, BA-1, BA-2, BA-3, MA-1.
+
+Codes and their meaning:
+
+- HS-9: high school students, 9th grade
+- HS-10: high school students, 10th grade
+- HS-11: high school students, 11th grade
+- HS-12: high school students, 12th grade
+- BA-0: students to be admitted for a BA programme at the Arab Academic College of Education 
+- BA-1: BA programme students, first year
+- BA-2: BA programme students, second year
+- BA-3: BA programme students, third year
+- MA-1: MA programme students, first year
+
 
 
 **Corpus Statistics**
