@@ -3,7 +3,7 @@
 
 A research project led by [Dr. Omaima Abboud](https://www.linkedin.com/in/omaima-abboud-915668149/?originalSubdomain=il) together with [Dr. Noam Ordan](https://scholar.google.com/citations?user=-Xtm8iAAAAAJ&hl=en).
 
-#### Corpus Description
+### Corpus Description
 
 ArabCC is a corpus of English essays written by native speakers of the Arabic language.
 
@@ -60,7 +60,7 @@ Codes and their meaning:
 
 
 
-**Corpus Statistics**
+### Corpus Statistics
 
 - Number of essays: 957
 - Number of prompts: 39
