@@ -23,7 +23,7 @@ The `metadata.tsv` file contains detailed information about essays, such as ID, 
 
 The metadata consists of 957 rows and 5 columns, namely: **Essay ID**, **Student ID**, **Level**, **Prompt**, **Date**.
 
-The **ID** column contains identification numbers of each essay. ID is equal to the name of the file in the `essays` folder. Data type is integer.
+The **ID** column contains unique identification numbers of essays. ID is equal to the name of the file in the `essays` folder. Data type is integer.
 
 The **Level** column contains codes of nine education levels. Data type is categorical (ordinal). See the following list for the meaning of each code:
 
